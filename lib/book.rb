@@ -3,4 +3,8 @@ class Book
   def initialize(title)
     @title = title
   end #initialize
+
+  def turn_page
+
+  end #turn_page
 end #Book
