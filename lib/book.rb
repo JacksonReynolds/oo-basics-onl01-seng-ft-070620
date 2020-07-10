@@ -5,6 +5,6 @@ class Book
   end #initialize
 
   def turn_page
-    puts 'Flippign the page...wow, you read fast!'
+    puts 'Flipping the page...wow, you read fast!'
   end #turn_page
 end #Book
